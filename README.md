@@ -5,4 +5,4 @@ Ouvrez le fichier generateur.py et remplacez les informations contenues dans les
 Lancez ce même fichier avec Python (compatible pc, android, apple...)
 Votre attestation est générée !
 
-Pour voir jusqu'où s'étend votre rayon d'un kilometre, je vous invite à vous rendre içi : https://fr.mappy.com/covid/calcul-zone
+Pour voir jusqu'où s'étend votre rayon d'un kilometre, je vous invite à vous rendre ici : https://fr.mappy.com/covid/calcul-zone
