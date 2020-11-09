@@ -27,8 +27,9 @@ elif int(minutes) < 0 :
     minutes = str(10 + minutes)
     minutes = str("5" + minutes)
 
-print(f"""{hours}:{minutes}""")
+hoursadd = hours+1
 print(date_string)
+print(f"""C'est bon jusqu'à {hoursadd}:{minutes} !""")
 
 content = f"""ATTESTATION DE DÉPLACEMENT DÉROGATOIRE
 En application du décret n°2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de Covid19 dans le cadre de l'état d'urgence sanitaire
